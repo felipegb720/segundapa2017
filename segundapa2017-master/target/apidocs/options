@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Felipe/Desktop/Segunda/segundapa2017-master/src/main/java;C:/Users/Felipe/Desktop/Segunda/segundapa2017-master/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2017. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Felipe/Desktop/Segunda/segundapa2017-master/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'segundaconvocatoria 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/Felipe/Desktop/Segunda/segundapa2017-master/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'segundaconvocatoria 1.0-SNAPSHOT API'
